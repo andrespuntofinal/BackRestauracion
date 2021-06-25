@@ -12,6 +12,8 @@ namespace BackReservas
 
         public DbSet<Reserva> Reserva { get; set; }
 
+        public DbSet<Eventos> Eventos { get; set; }
+
 
         public AplicationDbContext()
         {

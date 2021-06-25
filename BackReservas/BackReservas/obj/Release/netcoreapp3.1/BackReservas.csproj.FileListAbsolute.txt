@@ -42,3 +42,47 @@ D:\Documentos\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas
 D:\Documentos\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.dll
 D:\Documentos\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.pdb
 D:\Documentos\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.genruntimeconfig.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\appsettings.json
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\BackReservas.exe
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\BackReservas.deps.json
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\BackReservas.runtimeconfig.json
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\BackReservas.runtimeconfig.dev.json
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\BackReservas.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\BackReservas.pdb
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\MySqlConnector.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.csprojAssemblyReference.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.AssemblyInfoInputs.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.AssemblyInfo.cs
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.csproj.CoreCompileInputs.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.RazorTargetAssemblyInfo.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.csproj.CopyComplete
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\staticwebassets\BackReservas.StaticWebAssets.Manifest.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\staticwebassets\BackReservas.StaticWebAssets.xml
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.dll
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.pdb
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.genruntimeconfig.cache

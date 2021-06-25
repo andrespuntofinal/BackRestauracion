@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\BackReservas.csproj": {}
+    "D:\\Documentos\\DOCUMENTOS ANDRES\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\BackReservas.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\BackReservas.csproj": {
+    "D:\\Documentos\\DOCUMENTOS ANDRES\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\BackReservas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\BackReservas.csproj",
+        "projectUniqueName": "D:\\Documentos\\DOCUMENTOS ANDRES\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\BackReservas.csproj",
         "projectName": "BackReservas",
-        "projectPath": "D:\\Documentos\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\BackReservas.csproj",
+        "projectPath": "D:\\Documentos\\DOCUMENTOS ANDRES\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\BackReservas.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\obj\\",
+        "outputPath": "D:\\Documentos\\DOCUMENTOS ANDRES\\CursosUdemy\\Restauracion\\BERestauración\\BackReservas\\BackReservas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
