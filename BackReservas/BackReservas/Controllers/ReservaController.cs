@@ -22,6 +22,8 @@ namespace BackReservas.Controllers
             _context = context;
 
         }
+
+
         // GET: api/<ReservaController>
         [HttpGet]
         public ActionResult<List<Reserva>> Get()

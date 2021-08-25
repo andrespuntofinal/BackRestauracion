@@ -86,3 +86,4 @@ D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackRes
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.dll
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.pdb
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Release\netcoreapp3.1\BackReservas.genruntimeconfig.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Release\netcoreapp3.1\web.config

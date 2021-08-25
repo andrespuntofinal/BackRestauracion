@@ -20,6 +20,8 @@ namespace BackReservas.Models
         public DateTime fechaservicio { get; set; }
         [Required]
         public string horario { get; set; }
+        [Required]
+        public int idevento { get; set; }
 
 
     }

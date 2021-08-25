@@ -31,7 +31,7 @@ namespace BackReservas.Controllers
             {
 
                 var listEventos= _context.Eventos.ToList();
-                return Ok(listEventos);
+                return Ok(listEventos.OrderByDescending(x => x.fechaevento));
 
             }
             catch (Exception ex)
@@ -91,7 +91,7 @@ namespace BackReservas.Controllers
 
         // PUT api/<ReservaController>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] Reserva eventos)
+        public ActionResult Put(int id, [FromBody] Eventos eventos)
         {
             try
             {
@@ -124,7 +124,7 @@ namespace BackReservas.Controllers
             try
             {
 
-                var eventos = _context.Reserva.Find(id);
+                var eventos = _context.Eventos.Find(id);
 
                 if (eventos == null)
                 {

@@ -42,6 +42,7 @@ D:\Documentos\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas
 D:\Documentos\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 D:\Documentos\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Debug\netcoreapp3.1\BackReservas.csproj.CoreCompileInputs.cache
 D:\Documentos\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Debug\netcoreapp3.1\BackReservas.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Debug\netcoreapp3.1\web.config
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -74,7 +75,6 @@ D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackRes
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Debug\netcoreapp3.1\BackReservas.csprojAssemblyReference.cache
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Debug\netcoreapp3.1\BackReservas.AssemblyInfoInputs.cache
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Debug\netcoreapp3.1\BackReservas.AssemblyInfo.cs
 D:\Documentos\DOCUMENTOS ANDRES\CursosUdemy\Restauracion\BERestauración\BackReservas\BackReservas\obj\Debug\netcoreapp3.1\BackReservas.csproj.CoreCompileInputs.cache

@@ -30,7 +30,7 @@ namespace BackReservas
                     options.UseMySql(Configuration.GetConnectionString("Conexion")));
 
             services.AddCors(options =>
-
+    
             {
 
                 options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin()
